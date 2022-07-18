@@ -34,23 +34,21 @@ header h1 {
 
 
 #dimension1 {
-    height: 384px;
     background-color: black;
-    background-size: cover;
-    text-align: left;
-    color: white;
-       
-}
-
-#texto1 {
-    margin-top: 50px;
-    margin-left: 50px;
-    padding: 6em 3em 0 3em;
-    line-height: 1.6;
-    width: 50%;
-    float: left;
+    display: flow-root;
+    height: 348px;
     overflow: hidden;
+    text-align: center;
 }
+#text{
+    color: white;
+    width: 36%;
+    height: 197px;
+    text-align: left;
+    float: left;
+    margin: 76px 0 75px 11.5%;
+    font-weight: 300;
+  }
 
 #igua1 {
     margin-top: 50px;
